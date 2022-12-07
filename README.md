@@ -1,10 +1,6 @@
 # Tweetit.js
 A tiny jQuery plugin to tweet highlighted texts
 
-### Demo
-
-http://sislandemarcos.github.io/Tweetit.js/
-
 ### How to use it
 
 * Copy the libraries to your project.
@@ -46,7 +42,5 @@ $('.tweet-it').tweetit( {
 
 ### Remarks
 You may know that Twitter posts are restricted to 140 characters, including the url, via and hashtag paramters. Tweetit.js will include your parameters and restrict the actual text to comply with that restriction.
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2XMB9)
 
 [MIT License](http://opensource.org/licenses/mit-license.php)
